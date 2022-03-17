@@ -24,3 +24,9 @@ return res
 
 }
 
+## Education:
++ Belarusian National Technical University
+
+## Languages:
++ Russian - native speaker
++ English - B1 in process
